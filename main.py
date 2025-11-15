@@ -259,6 +259,222 @@ MOCK_SENTENCES = [
         "difficultyLevel": 2,
         "audioUrl": "https://example.blob.core.windows.net/audio/8.mp3"
     },
+    {
+        "id": 14,
+        "kreyolText": "Mwen renmen ou anpil.",
+        "englishTranslation": "I love you very much.",
+        "category": "molou",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/14.mp3"
+    },
+    {
+        "id": 15,
+        "kreyolText": "Ou se bèl bagay nan lavi m.",
+        "englishTranslation": "You are a beautiful thing in my life.",
+        "category": "molou",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/15.mp3"
+    },
+    {
+        "id": 16,
+        "kreyolText": "Kè m ap bat pou ou.",
+        "englishTranslation": "My heart beats for you.",
+        "category": "molou",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/16.mp3"
+    },
+    {
+        "id": 17,
+        "kreyolText": "Bonjou, ki jan ou ye?",
+        "englishTranslation": "Good morning, how are you?",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/17.mp3"
+    },
+    {
+        "id": 18,
+        "kreyolText": "Mwen bezwen ede.",
+        "englishTranslation": "I need help.",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/18.mp3"
+    },
+    {
+        "id": 19,
+        "kreyolText": "Konbyen sa koute?",
+        "englishTranslation": "How much does this cost?",
+        "category": "general",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/19.mp3"
+    },
+    {
+        "id": 20,
+        "kreyolText": "Mwen pa konprann.",
+        "englishTranslation": "I don't understand.",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/20.mp3"
+    },
+    {
+        "id": 21,
+        "kreyolText": "Ou manke m anpil.",
+        "englishTranslation": "I miss you so much.",
+        "category": "molou",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/21.mp3"
+    },
+    {
+        "id": 22,
+        "kreyolText": "Ou se tout bagay pou mwen.",
+        "englishTranslation": "You are everything to me.",
+        "category": "molou",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/22.mp3"
+    },
+    {
+        "id": 23,
+        "kreyolText": "M ap toujou la pou ou.",
+        "englishTranslation": "I will always be there for you.",
+        "category": "molou",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/23.mp3"
+    },
+    {
+        "id": 24,
+        "kreyolText": "Ou fè m santi mwen espesyal.",
+        "englishTranslation": "You make me feel special.",
+        "category": "molou",
+        "difficultyLevel": 3,
+        "audioUrl": "https://example.blob.core.windows.net/audio/24.mp3"
+    },
+    {
+        "id": 25,
+        "kreyolText": "Ekskyze m, ki kote twalèt la ye?",
+        "englishTranslation": "Excuse me, where is the bathroom?",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/25.mp3"
+    },
+    {
+        "id": 26,
+        "kreyolText": "Mèsi anpil pou èd ou.",
+        "englishTranslation": "Thank you very much for your help.",
+        "category": "general",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/26.mp3"
+    },
+    {
+        "id": 27,
+        "kreyolText": "Ki lè li ye kounye a?",
+        "englishTranslation": "What time is it now?",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/27.mp3"
+    },
+    {
+        "id": 28,
+        "kreyolText": "Mwen pa pale angle.",
+        "englishTranslation": "I don't speak English.",
+        "category": "general",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/28.mp3"
+    },
+    {
+        "id": 29,
+        "kreyolText": "Bourik chaje pa kanpe.",
+        "englishTranslation": "A loaded donkey doesn't stop.",
+        "category": "proverb",
+        "difficultyLevel": 3,
+        "audioUrl": "https://example.blob.core.windows.net/audio/29.mp3"
+    },
+    {
+        "id": 30,
+        "kreyolText": "Piti piti zwazo fè nich li.",
+        "englishTranslation": "Little by little the bird makes its nest.",
+        "category": "proverb",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/30.mp3"
+    },
+    {
+        "id": 31,
+        "kreyolText": "Dèyè mòn gen mòn.",
+        "englishTranslation": "Behind mountains there are mountains.",
+        "category": "proverb",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/31.mp3"
+    },
+    {
+        "id": 32,
+        "kreyolText": "Men anpil chay pa lou.",
+        "englishTranslation": "Many hands make the load light.",
+        "category": "proverb",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/32.mp3"
+    },
+    {
+        "id": 33,
+        "kreyolText": "Wòch nan dlo pa konnen doulè wòch nan solèy.",
+        "englishTranslation": "The rock in the water doesn't know the pain of the rock in the sun.",
+        "category": "proverb",
+        "difficultyLevel": 4,
+        "audioUrl": "https://example.blob.core.windows.net/audio/33.mp3"
+    },
+    {
+        "id": 34,
+        "kreyolText": "Bonswa, kijan ou pase jounen ou?",
+        "englishTranslation": "Good evening, how was your day?",
+        "category": "greetings",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/34.mp3"
+    },
+    {
+        "id": 35,
+        "kreyolText": "Mwen kontan wè w.",
+        "englishTranslation": "I'm happy to see you.",
+        "category": "greetings",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/35.mp3"
+    },
+    {
+        "id": 36,
+        "kreyolText": "Mwen grangou anpil.",
+        "englishTranslation": "I'm very hungry.",
+        "category": "food",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/36.mp3"
+    },
+    {
+        "id": 37,
+        "kreyolText": "Manje a gou anpil.",
+        "englishTranslation": "The food tastes very good.",
+        "category": "food",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/37.mp3"
+    },
+    {
+        "id": 38,
+        "kreyolText": "Eske ou vle bwè dlo?",
+        "englishTranslation": "Do you want to drink water?",
+        "category": "food",
+        "difficultyLevel": 2,
+        "audioUrl": "https://example.blob.core.windows.net/audio/38.mp3"
+    },
+    {
+        "id": 39,
+        "kreyolText": "Lapli ap tonbe.",
+        "englishTranslation": "It's raining.",
+        "category": "weather",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/39.mp3"
+    },
+    {
+        "id": 40,
+        "kreyolText": "Li fè frèt jodi a.",
+        "englishTranslation": "It's cold today.",
+        "category": "weather",
+        "difficultyLevel": 1,
+        "audioUrl": "https://example.blob.core.windows.net/audio/40.mp3"
+    },
 
 ]
 
@@ -362,15 +578,21 @@ def get_random_sentences(
 
 @app.get("/api/sentences/category/{category}", tags=["sentences"])
 def get_sentences_by_category(
-    category: str = Path(..., description="Category name (e.g., greetings, food, education)"),
-    count: int = Query(1, ge=1, le=50, description="Number of sentences to retrieve")
+    category: str = Path(..., description="Category name (e.g., molou, general, proverb, greetings, food, education)"),
+    count: int = Query(1, ge=1, le=50, description="Number of sentences to retrieve"),
+    userId: Optional[int] = Query(None, description="User ID for tracking (optional)")
 ):
     """
     ## Get Sentences by Category
 
     Retrieve sentences filtered by a specific category.
 
-    **Available categories:** greetings, food, education, weather, society, family, technology
+    **Available categories:** molou, general, proverb, greetings, food, education, weather, society, family, technology, tongue-twister, everyday
+
+    **Parameters:**
+    - **category**: The category to filter by
+    - **count**: Number of sentences to retrieve (default: 1, max: 50)
+    - **userId**: Optional user ID for tracking purposes
 
     **Returns:** Array of sentences matching the specified category
     """
@@ -416,6 +638,66 @@ def get_sentences_by_difficulty(
     - **5**: Expert - Specialized or technical language
     """
     filtered_sentences = [s for s in MOCK_SENTENCES if s["difficultyLevel"] == level]
+
+    if not filtered_sentences:
+        return []
+
+    selected_count = min(count, len(filtered_sentences))
+    return random.sample(filtered_sentences, selected_count)
+
+
+@app.get("/api/sentences/proverb", tags=["sentences"])
+def get_proverb_sentences(
+    count: int = Query(1, ge=1, le=50, description="Number of proverb sentences to retrieve")
+):
+    """
+    ## Get Haitian Proverb Sentences
+
+    Retrieve random Haitian Kreyòl proverbs (traditional sayings and wisdom).
+
+    **Parameters:**
+    - **count**: Number of proverb sentences to retrieve (default: 1, max: 50)
+
+    **Returns:** Array of proverb sentences with Kreyòl text, English translation, and audio URLs
+
+    **Available proverbs:**
+    - "Imilyasyon se lanfe" - Humiliation is hell
+    - "Gwo bounda pa vle di la sante" - Big buttocks do not mean health
+    """
+    proverb_sentences = [s for s in MOCK_SENTENCES if s.get("category") == "proverb"]
+
+    if not proverb_sentences:
+        return []
+
+    selected_count = min(count, len(proverb_sentences))
+    return random.sample(proverb_sentences, selected_count)
+
+
+# ============================================================================
+# Alternative Endpoints (Capital 'S' with userId support)
+# ============================================================================
+
+@app.get("/api/Sentences/category/{category}", tags=["sentences"])
+def get_sentences_by_category_with_user(
+    category: str = Path(..., description="Category name (e.g., molou, general, proverb, greetings, food)"),
+    count: int = Query(1, ge=1, le=50, description="Number of sentences to retrieve"),
+    userId: Optional[int] = Query(None, description="User ID for tracking (optional)")
+):
+    """
+    ## Get Sentences by Category (with User Tracking)
+
+    Retrieve sentences filtered by a specific category. Supports user tracking via userId parameter.
+
+    **Available categories:** molou, general, proverb, greetings, food, education, weather, society, family, technology, tongue-twister, everyday
+
+    **Parameters:**
+    - **category**: The category to filter by
+    - **count**: Number of sentences to retrieve (default: 1, max: 50)
+    - **userId**: Optional user ID for tracking purposes
+
+    **Returns:** Array of sentences matching the specified category
+    """
+    filtered_sentences = [s for s in MOCK_SENTENCES if s.get("category") == category]
 
     if not filtered_sentences:
         return []
