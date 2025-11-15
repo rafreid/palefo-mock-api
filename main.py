@@ -251,7 +251,6 @@ MOCK_SENTENCES = [
         "difficultyLevel": 2,
         "audioUrl": "https://example.blob.core.windows.net/audio/8.mp3"
     },
-    tongue-twister
     {
         "id": 13,
         "kreyolText": "Papa w se papa w, papa m pa papa w.",
