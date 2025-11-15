@@ -9,10 +9,9 @@ import corsProxy from "./cors-proxy.js";
 // API Configuration
 const API_BASE_URLS = {
   local: "https://localhost:7152/api",
-  development:
-    //"https://palefo-gxh3b3dpd6e4e0fh.westus-01.azurewebsites.net/api", 
-    'https://localhost:7152/api',
-  production: "https://palefo-gxh3b3dpd6e4e0fh.westus-01.azurewebsites.net/api"
+  development: 'https://localhost:7152/api',
+    production: 'https://palefo-mock-api-92d4b6d1e5b9.herokuapp.com/api'. // mocked palefo api
+  //production: "https://palefo-gxh3b3dpd6e4e0fh.westus-01.azurewebsites.net/api"
   //production: "http://localhost:5297/api"//"https://palefo-gxh3b3dpd6e4e0fh.westus-01.azurewebsites.net/api"
 };
 
@@ -23,7 +22,8 @@ const isLocalhost = window.location.hostname === 'localhost' ||
                    window.location.hostname === '[::1]';
 
 // Use development URL for local testing
-const ENVIRONMENT = isLocalhost ? "development" : "production";
+//const ENVIRONMENT = isLocalhost ? "development" : "production";
+const ENVIRONMENT = "production";
 
 // Set the current API URL based on environment
 let API_BASE_URL = API_BASE_URLS[ENVIRONMENT];
